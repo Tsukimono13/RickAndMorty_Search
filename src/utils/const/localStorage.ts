@@ -1,0 +1,1 @@
+export const FILTERS_LOCALSTORAGE_KEY = 'filters'

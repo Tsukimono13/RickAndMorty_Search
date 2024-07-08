@@ -1,0 +1,1 @@
+export { CharacterDetailedPageAsync as CharacterDetailedPage } from './CharacterDetailedPageAsync';
